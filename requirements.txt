@@ -1,0 +1,10 @@
+pillow
+asyncio
+aiohttp
+aiofiles
+telethon
+pyquery
+aiodns
+cchardet
+brotlipy
+ujson

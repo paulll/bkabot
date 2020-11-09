@@ -1,0 +1,7 @@
+metadata
+*.sqlite
+*.session
+*.bak
+*.csv
+src/secrets.py
+__pycache__
